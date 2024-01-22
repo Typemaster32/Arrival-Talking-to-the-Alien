@@ -1,6 +1,8 @@
 # Arrival-Talking-to-the-Alien-
 This is my final project for 2023 ITP Winter Show, a generative artwork, a recreation of movie "Arrival". Here users can talk to the alien behind the screen like what they do in the movie. AI translation is accompanied.
 
+
+
 [1]To deploy in your machine, here is what you need to prepare:
 
 1. Get an OpenAI API KEY.
@@ -11,6 +13,8 @@ This is my final project for 2023 ITP Winter Show, a generative artwork, a recre
 3. In VSCode extension, find "Live Server" and add it.
 4. If you don't plan to use VSCode or Live Server, pay attention to the "Go Live" step. Clicking the html file then opening it in a browser is the substitute.
 5. Download Node.js https://nodejs.org/en
+
+
 
 [2]Let's go!!!
 
@@ -25,10 +29,17 @@ This is my final project for 2023 ITP Winter Show, a generative artwork, a recre
 
 And if everything's well, you should be now starting with the project.
 
+
+
 [3]How to interact?
 1. Type your own question below, press enter (Windows) / return (MacOS) to ask.
 2. Or, click own the three questions prepared. They also refresh.
 3. The answer is given in the center of the screen. It comes with an AI translation below.
 
+
+
 [4]How did I make it?
 1. Using p5js (https://p5js.org/) to generate the artistic circle language. Check the pure version: https://openprocessing.org/sketch/2121872
+2. Using "perlin noise" and "randomGaussian" function to create and randomness of the circle.
+3. Adjust multiple(enormous) times.
+4. Using OpenAI ChatGPT to prepare the conversation.
