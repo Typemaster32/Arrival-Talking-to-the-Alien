@@ -3,7 +3,7 @@
 
 ![image](https://github.com/Typemaster32/Arrival-Talking-to-the-Alien/assets/70934733/eba0bc6a-4835-464c-998c-4ec8ab02c231)
 
-Have you ever watched this movie? Have you ever thinked of a real talk to the alien?
+## Have you ever watched this movie? Have you ever thinked of a real talk to the alien?
 
 ![Arrival_Jiaqi_Yi-20](https://github.com/Typemaster32/Arrival-Talking-to-the-Alien/assets/70934733/2cad2f16-d56f-4a7e-93b1-97a56e29a40b)
 
@@ -14,7 +14,7 @@ This is my final project for 2023 ITP Winter Show, a generative artwork, a recre
 
 
 
-[1]To deploy in your machine, here is what you need to prepare:
+### [1]To deploy in your machine, here is what you need to prepare:
 1. Get an OpenAI API KEY.
   Here's their homepage: https://openai.com/blog/openai-api
   Here's a good tutotial if you don't know where to start: https://www.youtube.com/watch?v=nafDyRsVnXU
@@ -26,7 +26,7 @@ This is my final project for 2023 ITP Winter Show, a generative artwork, a recre
 
 
 
-[2]Let's go!!!
+### [2]Let's go!!!
 1. Download the whole package through Code -> Download ZIP.
 2. Unzip.
 3. Use your IDE, open the unziped folder.
@@ -39,14 +39,14 @@ And if everything's well, you should be now starting with the project.
 
 
 
-[3]How to interact?
+### [3]How to interact?
 1. Type your own question below, press enter (Windows) / return (MacOS) to ask.
 2. Or, click own the three questions prepared. They also refresh.
 3. The answer is given in the center of the screen. It comes with an AI translation below.
 
 
 
-[4]How did I make it?
+### [4]How did I make it?
 1. Using p5js (https://p5js.org/) to generate the artistic circle language. Check the pure version with only the visual part: https://openprocessing.org/sketch/2121872
 2. Using "perlin noise" and "randomGaussian" function to create and randomness of the circle.
 3. Adjust the parameters for multiple(enormous) times.
