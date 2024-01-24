@@ -1,4 +1,15 @@
 # Arrival (Talking to the Alien)
+![image](https://github.com/Typemaster32/Arrival-Talking-to-the-Alien/assets/70934733/a8492416-20d5-47ea-954e-8e2429c23e38)
+
+![image](https://github.com/Typemaster32/Arrival-Talking-to-the-Alien/assets/70934733/eba0bc6a-4835-464c-998c-4ec8ab02c231)
+
+Have you ever watched this movie? Have you ever thinked of a real talk to the alien?
+
+![Arrival_Jiaqi_Yi-20](https://github.com/Typemaster32/Arrival-Talking-to-the-Alien/assets/70934733/2cad2f16-d56f-4a7e-93b1-97a56e29a40b)
+
+![IMG_3510](https://github.com/Typemaster32/Arrival-Talking-to-the-Alien/assets/70934733/06999a28-7ef1-4e7c-aaf5-bf56f67a9ca0)
+
+
 This is my final project for 2023 ITP Winter Show, a generative artwork, a recreation of movie "Arrival". Here users can talk to the alien behind the screen like what they do in the movie. AI translation is accompanied.
 
 
