@@ -1,4 +1,4 @@
-# Arrival-Talking-to-the-Alien
+# Arrival (Talking to the Alien)
 This is my final project for 2023 ITP Winter Show, a generative artwork, a recreation of movie "Arrival". Here users can talk to the alien behind the screen like what they do in the movie. AI translation is accompanied.
 
 
@@ -24,7 +24,7 @@ This is my final project for 2023 ITP Winter Show, a generative artwork, a recre
 4. Open the terminal of your IDE. If you're a MacOS & VSCode user, press " ` + shift + control ".
 5. Type "npm install", then press enter (Windows) / return (MacOS).
 6. Type "node server.js", then press enter (Windows) / return (MacOS).
-7. Find ".env". Fill the blank with your own OpenAI API KEY behind "=". (This file is going to be offline, so feel safe to do it!)
+7. Create a file named ".env". Paste: "OPENAI_API_KEY=", and fill your own OpenAI API KEY behind "=". (This file is going to be offline, so feel safe to do it!)
 8. Click "Go Live" at the buttom. (If you don't plan to use VSCode or Live Server, click the html file then open it in a browser)
 
 And if everything's well, you should be now starting with the project.
