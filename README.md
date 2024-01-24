@@ -4,7 +4,6 @@ This is my final project for 2023 ITP Winter Show, a generative artwork, a recre
 
 
 [1]To deploy in your machine, here is what you need to prepare:
-
 1. Get an OpenAI API KEY.
   Here's their homepage: https://openai.com/blog/openai-api
   Here's a good tutotial if you don't know where to start: https://www.youtube.com/watch?v=nafDyRsVnXU
@@ -17,7 +16,6 @@ This is my final project for 2023 ITP Winter Show, a generative artwork, a recre
 
 
 [2]Let's go!!!
-
 1. Download the whole package through Code -> Download ZIP.
 2. Unzip.
 3. Use your IDE, open the unziped folder.
@@ -26,7 +24,6 @@ This is my final project for 2023 ITP Winter Show, a generative artwork, a recre
 6. Type "node server.js", then press enter (Windows) / return (MacOS).
 7. Create a file named ".env". Paste: "OPENAI_API_KEY=", and fill your own OpenAI API KEY behind "=". (This file is going to be offline, so feel safe to do it!)
 8. Click "Go Live" at the buttom. (If you don't plan to use VSCode or Live Server, click the html file then open it in a browser)
-
 And if everything's well, you should be now starting with the project.
 
 
@@ -39,7 +36,14 @@ And if everything's well, you should be now starting with the project.
 
 
 [4]How did I make it?
-1. Using p5js (https://p5js.org/) to generate the artistic circle language. Check the pure version: https://openprocessing.org/sketch/2121872
+1. Using p5js (https://p5js.org/) to generate the artistic circle language. Check the pure version with only the visual part: https://openprocessing.org/sketch/2121872
 2. Using "perlin noise" and "randomGaussian" function to create and randomness of the circle.
-3. Adjust multiple(enormous) times.
+3. Adjust the parameters for multiple(enormous) times.
 4. Using OpenAI ChatGPT to prepare the conversation.
+
+
+
+[5]About:
+1. This is the ORIGINAL fantastic movie! https://en.wikipedia.org/wiki/Arrival_(film)
+2. This project is one of my generative artworks. You can also take a look at at https://openprocessing.org/user/402229?view=sketches&o=28
+3. This project should NEVER be used to make any profit.
