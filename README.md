@@ -58,3 +58,23 @@ And if everything's well, you should be now starting with the project.
 1. This is the ORIGINAL fantastic movie! https://en.wikipedia.org/wiki/Arrival_(film)
 2. This project is one of my generative artworks. You can also take a look at at https://openprocessing.org/user/402229?view=sketches&o=28
 3. This project should NEVER be used to make any profit.
+
+
+### [6]Security Notes (Updated)
+1. Never commit `.env` to git. This repo now includes `.gitignore` and `.env.example`.
+2. Put keys only in local `.env`:
+   - `OPENAI_API_KEY=...`
+   - `DEEPSEEK_API_KEY=...`
+3. If a key is ever exposed, rotate it immediately in provider dashboard.
+4. Before push, run:
+   - `git status --short`
+   - `git diff -- .env`
+   - `git diff --cached`
+
+
+### [7]Local Run (Updated)
+1. `npm install`
+2. Copy env template: `cp .env.example .env`
+3. Fill your real keys in `.env`.
+4. Start server: `PORT=3001 node server.js`
+5. Open: `http://localhost:3001` (do not use `file://`).

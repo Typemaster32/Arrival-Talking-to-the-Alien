@@ -1,0 +1,17 @@
+{
+  "name": "arrival-chat-functions",
+  "description": "Firebase Functions for Arrival Chat API",
+  "engines": {
+    "node": "20"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "firebase-functions": "^6.0.0",
+    "node-fetch": "^2.7.0"
+  },
+  "devDependencies": {
+    "firebase-tools": "^13.0.0"
+  },
+  "private": true
+}
